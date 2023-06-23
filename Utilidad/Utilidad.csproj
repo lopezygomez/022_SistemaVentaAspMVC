@@ -47,6 +47,7 @@
     <Content Include="SQL Server\001_BASE DE DATOS Y TABLAS.sql" />
     <Content Include="SQL Server\002_INSERT TABLES.sql" />
     <Content Include="SQL Server\003_CREAR PROCEDIMIENTOS.sql" />
+    <Content Include="SQL Server\Attach_DB.SQL" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
